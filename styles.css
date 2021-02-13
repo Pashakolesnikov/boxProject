@@ -1,0 +1,17 @@
+.rightBlock {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+.leftBlock {
+    float: left;
+}
+.centerBlock {
+    margin: 0 auto;
+}
+.block {
+    height: 100px;
+    width: 100px;
+    border: 20px solid black;
+}
